@@ -81,8 +81,6 @@
 		F3B6AAB11A65AB5C007BDF86 /* About Me */ = {
 			isa = PBXGroup;
 			children = (
-				F3B6AAB61A65AB5C007BDF86 /* AppDelegate.h */,
-				F3B6AAB71A65AB5C007BDF86 /* AppDelegate.m */,
 				F3B6AAB91A65AB5C007BDF86 /* ViewController.h */,
 				F3B6AABA1A65AB5C007BDF86 /* ViewController.m */,
 				F3B6AABC1A65AB5C007BDF86 /* Main.storyboard */,
@@ -96,6 +94,8 @@
 		F3B6AAB21A65AB5C007BDF86 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				F3B6AAB61A65AB5C007BDF86 /* AppDelegate.h */,
+				F3B6AAB71A65AB5C007BDF86 /* AppDelegate.m */,
 				F3B6AAB31A65AB5C007BDF86 /* Info.plist */,
 				F3B6AAB41A65AB5C007BDF86 /* main.m */,
 			);
